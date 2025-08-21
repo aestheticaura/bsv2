@@ -1,5 +1,5 @@
 {
-  "name": "@github:aestheticaura/bsv2",
+  "name": "aestheticaura/bsv2",
   "version": "6.8.1",
   "description": "WhatsApp API",
   "keywords": [
@@ -104,3 +104,4 @@
   },
   "packageManager": "yarn@1.22.19"
 }
+
